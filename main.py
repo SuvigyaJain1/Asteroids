@@ -1,6 +1,5 @@
 import turtle
 import random
-# import  winsound
 
 
 # Create Screen
