@@ -17,3 +17,5 @@ to install the dependencies
 
 Once the game is running use the WASD and the Arrow Keys to control the 2 sprites.
 First one to the score limit wins
+
+![Image](https://github.com/SuvigyaJain1/Asteroids/blob/master/Screenshot%20from%202020-09-08%2011-27-48.png)
